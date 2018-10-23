@@ -1,0 +1,21 @@
+{
+  "name": "desafiobackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "knex": "^0.15.2",
+    "mysql": "^2.16.0",
+    "restify": "^7.2.1",
+    "restify-errors": "^6.1.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
